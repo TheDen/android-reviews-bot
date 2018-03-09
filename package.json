@@ -1,0 +1,16 @@
+{
+  "name": "android-reviews-bot",
+  "version": "1.0.0",
+  "description": "Grab Android Reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.206.0",
+    "axios": "^0.18.0",
+    "google-play-scraper": "^5.0.0"
+  }
+}
